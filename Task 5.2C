@@ -16,7 +16,7 @@ def ledsB():
         ledG.off()
         ledB.on()
 def ledsG():
-        ledR.off()a
+        ledR.off()
         ledB.off()
         ledG.on()
 def ledsR():
